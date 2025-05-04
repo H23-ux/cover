@@ -121,6 +121,7 @@ Publish the website in the LocalHost.
 
 ## OUTPUT:
 
+![image](https://github.com/user-attachments/assets/139ff5c2-4d0a-4fc2-bd4a-1fbf785cbb47)
 
 
 ## RESULT:
